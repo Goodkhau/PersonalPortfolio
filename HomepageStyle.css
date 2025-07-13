@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: gray;
+}
+
+div#foreground {
+    background-color: white;
+    width: 800px;
+    height: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#foreground h1{
+    text-align: center;
+    margin-top: 0;
+}
