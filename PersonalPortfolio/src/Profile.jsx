@@ -1,7 +1,8 @@
 function Profile() {
     const profilestyle = {
         width: "800px",
-        textAlign: "center",
+        padding: "280px 0",
+        textAlign: "center"
     };
 
     return(
@@ -11,6 +12,7 @@ function Profile() {
                 Welcome To My Website
             </h1>
         </div>
+        <p>Hello</p>
         </>
     );
 }
