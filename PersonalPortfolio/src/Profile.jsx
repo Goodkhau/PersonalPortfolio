@@ -1,6 +1,17 @@
 function Profile() {
+    const profilestyle = {
+        width: "800px",
+        textAlign: "center",
+    };
+
     return(
-        <h1>Welcome to My Website</h1>
+        <>
+        <div style={profilestyle}>
+            <h1>
+                Welcome To My Website
+            </h1>
+        </div>
+        </>
     );
 }
 
